@@ -1,0 +1,5 @@
+Transformer un nombre en chiffres arabes en un nombre en chiffres romains :
+
+1 -> I
+10 -> X
+1244 -> MCCXLIV
